@@ -1,3 +1,3 @@
 # hello-world
 This is just another repository
-Viejo Mauro, Conga and CowBell player
+Viejo Mauro, Conga and Cowbell player
